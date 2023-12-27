@@ -1,0 +1,4 @@
+﻿  OpenGLTemplate.cpp
+C:\Users\denni\Documents\GAM531FinalPRJDB\shaderinit.h(42,38): warning C4101: 'e': unreferenced local variable
+C:\Users\denni\Documents\GAM531FinalPRJDB\OpenGLTemplate.cpp(767,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  OpenGLTemplate.vcxproj -> C:\Users\denni\Documents\GAM531FinalPRJDB\x64\Debug\OpenGLTemplate.exe
