@@ -7,7 +7,7 @@ Welcome to the 3D Arkanoid Game repository! Experience a classic game reimagined
 This game revamps the classic Arkanoid gameplay with a modern 3D touch. Play in a 1024x768 window, enjoying a dynamic and immersive experience from a static 3/4 perspective.
 
 
-![3D Arkanoid Game Screenshot](https://ibb.co/NSp7H1J)
+![3D Arkanoid Game Screenshot](https://i.ibb.co/yS5VbhZ/Screenshot-2024-01-11-172034.png)
 
 
 ### Key Features
